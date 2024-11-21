@@ -1,0 +1,16 @@
+body {
+    background-color:rgba(21, 224, 231, 0.76);
+  }
+  
+  .titulo {
+    color: #091f81;
+    text-align: center;
+    font-family: verdana;
+  }
+  
+  #paragrafo {
+    font-family: verdana;
+    font-size: 20px;
+    color: #0853c4f8;
+    text-align: center;
+  }
